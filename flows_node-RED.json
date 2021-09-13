@@ -1,0 +1,1490 @@
+[
+    {
+        "id": "1d0ba3cd830efefb",
+        "type": "tab",
+        "label": "Flows",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "78e4eec00a22ae94",
+        "type": "tab",
+        "label": "ThingSpeak",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "37ca52650b609963",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "test.mosquitto.org",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "sessionExpiry": ""
+    },
+    {
+        "id": "894e47c8800c9889",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "53bc989720b014f3",
+        "type": "ui_group",
+        "name": "Total earnings",
+        "tab": "58c2aa06.ef46e4",
+        "order": 1,
+        "disp": true,
+        "width": "9",
+        "collapse": false,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "fd0732ad1de31478",
+        "type": "ui_group",
+        "name": "ThingSpeak",
+        "tab": "",
+        "order": 2,
+        "disp": true,
+        "width": "13",
+        "collapse": false
+    },
+    {
+        "id": "ead63c8eb346d738",
+        "type": "ui_tab",
+        "name": "Food",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "f41e86806db24e77",
+        "type": "ui_group",
+        "name": "Column1",
+        "tab": "ead63c8eb346d738",
+        "order": 1,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "c6fa832ff268f5e8",
+        "type": "ui_group",
+        "name": "Column 2",
+        "tab": "ead63c8eb346d738",
+        "order": 1,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "d7b8e6cf6e888c9f",
+        "type": "ui_group",
+        "name": "Column 3",
+        "tab": "ead63c8eb346d738",
+        "order": 3,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "7f4dc44acd4308aa",
+        "type": "ui_group",
+        "name": "Home",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": "16",
+        "collapse": false,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e814c6380f5e9aeb",
+        "type": "ui_tab",
+        "name": "Beverage",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "17f3a9477afe0f1e",
+        "type": "ui_group",
+        "name": "Beverage",
+        "tab": "e814c6380f5e9aeb",
+        "order": 1,
+        "disp": true,
+        "width": "9",
+        "collapse": false,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "625872f.40b1e8c",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "58c2aa06.ef46e4",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "58c2aa06.ef46e4",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "d35ef1e253cc4f12",
+        "type": "ui_group",
+        "name": "Column 1",
+        "tab": "e814c6380f5e9aeb",
+        "order": 1,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "864f8b87e9149568",
+        "type": "ui_group",
+        "name": "Column 2",
+        "tab": "e814c6380f5e9aeb",
+        "order": 2,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "ba2d9982eaf3bf78",
+        "type": "ui_group",
+        "name": "Column 3",
+        "tab": "e814c6380f5e9aeb",
+        "order": 2,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "d3051d12bb0a2a2b",
+        "type": "ui_group",
+        "name": "Column 1",
+        "tab": "692e6bd9d83a33c7",
+        "order": 1,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "7100ef9298dfb99d",
+        "type": "ui_group",
+        "name": "Column 2",
+        "tab": "692e6bd9d83a33c7",
+        "order": 2,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "93374a9e3862fd5e",
+        "type": "ui_group",
+        "name": "Column 3",
+        "tab": "692e6bd9d83a33c7",
+        "order": 3,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "bba98bc3ffc5ab4e",
+        "type": "ui_group",
+        "name": "Column 1",
+        "tab": "845273868158b6c2",
+        "order": 1,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "b0d52958d28f3fe4",
+        "type": "ui_group",
+        "name": "Column 2",
+        "tab": "845273868158b6c2",
+        "order": 2,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "47cea0e2dea6aa08",
+        "type": "ui_group",
+        "name": "Column 3",
+        "tab": "845273868158b6c2",
+        "order": 3,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "692e6bd9d83a33c7",
+        "type": "ui_tab",
+        "name": "Personal Care",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "845273868158b6c2",
+        "type": "ui_tab",
+        "name": "Electronics",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e5414355391219a7",
+        "type": "ui_group",
+        "name": "Discounted single products",
+        "tab": "58c2aa06.ef46e4",
+        "order": 2,
+        "disp": true,
+        "width": "9",
+        "collapse": false
+    },
+    {
+        "id": "fe2d6109ee2d83d4",
+        "type": "ui_group",
+        "name": "Discounted coupled products",
+        "tab": "58c2aa06.ef46e4",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "571a38b1.5e3638",
+        "type": "ui_group",
+        "name": "Richer Table",
+        "tab": "29ec6908.552b36",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "29ec6908.552b36",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "track_changes",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "51ce6aa1.620754",
+        "type": "ui_group",
+        "name": "ui_control",
+        "tab": "3b08fac0.8f06b6",
+        "order": 1,
+        "disp": true,
+        "width": "22",
+        "collapse": false
+    },
+    {
+        "id": "3b08fac0.8f06b6",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "track_changes",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ab5a2ec581ce8bd2",
+        "type": "http request",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 890,
+        "y": 380,
+        "wires": [
+            [
+                "9c1dbddcf9fcbe30"
+            ]
+        ]
+    },
+    {
+        "id": "427f8ff546c830ce",
+        "type": "inject",
+        "z": "1d0ba3cd830efefb",
+        "name": "make request",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "*/1 0 * * *",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 200,
+        "y": 380,
+        "wires": [
+            [
+                "334827bc54f5c75a"
+            ]
+        ]
+    },
+    {
+        "id": "9c1dbddcf9fcbe30",
+        "type": "python3-function",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "func": "dictionary = []\nfor element in msg[\"payload\"][\"products\"]:\n    dictionary.append({\"Product\":element.split(\"/\")[0],\"Base price\":element.split(\"/\")[1],\"Discounted price\":element.split(\"/\")[2]})\nmsg[\"payload\"] = dictionary\nreturn msg",
+        "outputs": 1,
+        "x": 1110,
+        "y": 380,
+        "wires": [
+            [
+                "baa185ccb7b01db8",
+                "c4c1e7d28bc12b8b"
+            ]
+        ]
+    },
+    {
+        "id": "baa185ccb7b01db8",
+        "type": "debug",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1370,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "628ef79575a5e186",
+        "type": "http request",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 890,
+        "y": 560,
+        "wires": [
+            [
+                "01e14a49efc08a8a"
+            ]
+        ]
+    },
+    {
+        "id": "01e14a49efc08a8a",
+        "type": "python3-function",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "func": "msg[\"payload\"] = msg[\"payload\"][\"products\"]\nreturn msg",
+        "outputs": 1,
+        "x": 1110,
+        "y": 560,
+        "wires": [
+            [
+                "9af366a5f0a7aacf",
+                "2b1e6432482099bf"
+            ]
+        ]
+    },
+    {
+        "id": "9af366a5f0a7aacf",
+        "type": "debug",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1370,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "c4c1e7d28bc12b8b",
+        "type": "ui_table",
+        "z": "1d0ba3cd830efefb",
+        "group": "e5414355391219a7",
+        "name": "Table 1",
+        "order": 1,
+        "width": "9",
+        "height": "6",
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1360,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "2b1e6432482099bf",
+        "type": "ui_table",
+        "z": "1d0ba3cd830efefb",
+        "group": "fe2d6109ee2d83d4",
+        "name": "Table 2",
+        "order": 1,
+        "width": "6",
+        "height": "6",
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1360,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "0d9bd24a6945ec12",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "f41e86806db24e77",
+        "name": "Pizza",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 320,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "38e782032676caf9",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "f41e86806db24e77",
+        "name": "Biscuits",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 330,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ac2424042e44da41",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "f41e86806db24e77",
+        "name": "Pasta",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 320,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4ce6928bd894243c",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "c6fa832ff268f5e8",
+        "name": "Bread",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 320,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "54cace1850964655",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "c6fa832ff268f5e8",
+        "name": "Fish",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/5?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 320,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9938342af8875878",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "c6fa832ff268f5e8",
+        "name": "Hamburger",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/6?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 340,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6b3b5178f44a8d8b",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d7b8e6cf6e888c9f",
+        "name": "Chips",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/7?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 320,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "30acb622ff33b53f",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d7b8e6cf6e888c9f",
+        "name": "Ketchup",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1374565/charts/8?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 330,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0aab01e1483767fd",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d35ef1e253cc4f12",
+        "name": "Milk",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 590,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9808fdcad3b57929",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d35ef1e253cc4f12",
+        "name": "Water",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 590,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aaba1755321317c1",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d35ef1e253cc4f12",
+        "name": "Wine",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 590,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bf379aeeb6f16367",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "864f8b87e9149568",
+        "name": "Beer",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 590,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a4b9ec034d52e5e6",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "864f8b87e9149568",
+        "name": "Soda",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/5?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 590,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c4e6104173b334f2",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "864f8b87e9149568",
+        "name": "Cola",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/6?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 590,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "73e1cef7ba4f51cd",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "ba2d9982eaf3bf78",
+        "name": "Lemonade",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/7?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 610,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "26bec68056f60a65",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "ba2d9982eaf3bf78",
+        "name": "The",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1444351/charts/8?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 590,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5b22f3a53e1f685a",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d3051d12bb0a2a2b",
+        "name": "Shampoo",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 880,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a9a20a9a00ade1de",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d3051d12bb0a2a2b",
+        "name": "Perfume",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 880,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1536a59ca51ebf99",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "d3051d12bb0a2a2b",
+        "name": "Balm",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 870,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "78ed65a957ba0ad3",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "7100ef9298dfb99d",
+        "name": "Cream",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 870,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "38457670109fb185",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "7100ef9298dfb99d",
+        "name": "Deodorant",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/5?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 890,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dc610b5bc1399a60",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "7100ef9298dfb99d",
+        "name": "Toothpaste",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/6?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 890,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7aa6218232923b8f",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "93374a9e3862fd5e",
+        "name": "Mascara",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/7?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 880,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fe3a6c067b9759be",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "93374a9e3862fd5e",
+        "name": "Soap",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1396779/charts/8?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 870,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bd9caa44324bc3eb",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "bba98bc3ffc5ab4e",
+        "name": "Tv",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1150,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9f75a76e530683dd",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "bba98bc3ffc5ab4e",
+        "name": "Radio",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1150,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "36b8b261ae11c05f",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "bba98bc3ffc5ab4e",
+        "name": "Smartphone",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1170,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "14d1ef5645e62c05",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "b0d52958d28f3fe4",
+        "name": "Tablet",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1150,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8e4c9be5cc3cd409",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "b0d52958d28f3fe4",
+        "name": "Notebook",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/5?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1160,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "151d15e2c5bc5280",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "b0d52958d28f3fe4",
+        "name": "Printer",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/6?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1150,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6e5015eb13874d5d",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "47cea0e2dea6aa08",
+        "name": "Earpods",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/7?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1160,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "81512165dfe5f73d",
+        "type": "ui_template",
+        "z": "78e4eec00a22ae94",
+        "group": "47cea0e2dea6aa08",
+        "name": "Webcam",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<iframe width=\"450\" height=\"260\" style=\"border: 1px solid #cccccc;\" src=\"https://thingspeak.com/channels/1395955/charts/8?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15\"></iframe>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1160,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bfe439999ac3d471",
+        "type": "http request",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 890,
+        "y": 740,
+        "wires": [
+            [
+                "2f5c5c4c3a96d0d7"
+            ]
+        ]
+    },
+    {
+        "id": "2f5c5c4c3a96d0d7",
+        "type": "python3-function",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "func": "resp = [{\"Day\":\"sunday\",\"Total\":0,\"Number of transactions\":0},{\"Day\":\"monday\",\"Total\":0,\"Number of transactions\":0},{\"Day\":\"tuesday\",\"Total\":0,\"Number of transactions\":0},{\"Day\":\"wednesday\",\"Total\":0,\"Number of transactions\":0},{\"Day\":\"thursday\",\"Total\":0,\"Number of transactions\":0},{\"Day\":\"friday\",\"Total\":0,\"Number of transactions\":0},{\"Day\":\"saturday\",\"Total\":0,\"Number of transactions\":0}]\n\nfor el in msg[\"payload\"]:\n    for idx,elem in enumerate(resp):\n        if elem[\"Day\"][0:3]==el[\"day\"]:\n            resp[idx][\"Number of transactions\"]+=1\n            resp[idx][\"Total\"]+=float(el[\"total\"])\n    \nfor idx,el in enumerate(resp):\n    if resp[idx][\"Number of transactions\"]!=0:\n        resp[idx][\"Total\"] = format(resp[idx][\"Total\"]/resp[idx][\"Number of transactions\"],\".2f\")\n\nmsg[\"payload\"] = resp\nreturn msg",
+        "outputs": 1,
+        "x": 1110,
+        "y": 740,
+        "wires": [
+            [
+                "b982bb6e2033f1e2",
+                "7c16b89e7afca06b"
+            ]
+        ]
+    },
+    {
+        "id": "b982bb6e2033f1e2",
+        "type": "debug",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1370,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "7c16b89e7afca06b",
+        "type": "ui_table",
+        "z": "1d0ba3cd830efefb",
+        "group": "53bc989720b014f3",
+        "name": "Table 3",
+        "order": 1,
+        "width": "9",
+        "height": "6",
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1360,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "334827bc54f5c75a",
+        "type": "http request",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://127.0.0.1:8080/getEndPoints?ID=CheckDiscounts",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 410,
+        "y": 380,
+        "wires": [
+            [
+                "1a2a4b6837726adc"
+            ]
+        ]
+    },
+    {
+        "id": "1a2a4b6837726adc",
+        "type": "python3-function",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "func": "msg[\"url\"] = msg[\"payload\"][\"url\"]+\"/CheckDiscounts?par1=SingleProducts\"\nreturn msg",
+        "outputs": 1,
+        "x": 650,
+        "y": 380,
+        "wires": [
+            [
+                "ab5a2ec581ce8bd2"
+            ]
+        ]
+    },
+    {
+        "id": "ac1ccb22542be911",
+        "type": "python3-function",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "func": "msg[\"url\"] = msg[\"payload\"][\"url\"]+\"/CheckDiscounts?par1=CoupledProducts\"\nreturn msg",
+        "outputs": 1,
+        "x": 650,
+        "y": 560,
+        "wires": [
+            [
+                "628ef79575a5e186"
+            ]
+        ]
+    },
+    {
+        "id": "92b76903c995d196",
+        "type": "http request",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://127.0.0.1:8080/getEndPoints?ID=CheckDiscounts",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 410,
+        "y": 560,
+        "wires": [
+            [
+                "ac1ccb22542be911"
+            ]
+        ]
+    },
+    {
+        "id": "8c6d4557f6d968d9",
+        "type": "inject",
+        "z": "1d0ba3cd830efefb",
+        "name": "make request",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "*/1 0 * * *",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 200,
+        "y": 560,
+        "wires": [
+            [
+                "92b76903c995d196"
+            ]
+        ]
+    },
+    {
+        "id": "30c4000d2b0c5a54",
+        "type": "inject",
+        "z": "1d0ba3cd830efefb",
+        "name": "make request",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "*/1 0 * * *",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 200,
+        "y": 740,
+        "wires": [
+            [
+                "90c4c3dc878964a1"
+            ]
+        ]
+    },
+    {
+        "id": "90c4c3dc878964a1",
+        "type": "http request",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://127.0.0.1:8080/getEndPoints?ID=CheckDiscounts",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 410,
+        "y": 740,
+        "wires": [
+            [
+                "96861e3762cfd7ba"
+            ]
+        ]
+    },
+    {
+        "id": "96861e3762cfd7ba",
+        "type": "python3-function",
+        "z": "1d0ba3cd830efefb",
+        "name": "",
+        "func": "msg[\"url\"] = msg[\"payload\"][\"url\"]+\"/getTotal\"\nreturn msg",
+        "outputs": 1,
+        "x": 650,
+        "y": 740,
+        "wires": [
+            [
+                "bfe439999ac3d471"
+            ]
+        ]
+    },
+    {
+        "id": "9861279588ede7dd",
+        "type": "comment",
+        "z": "1d0ba3cd830efefb",
+        "name": "SingleProduct",
+        "info": "",
+        "x": 190,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "0f165776eb485176",
+        "type": "comment",
+        "z": "1d0ba3cd830efefb",
+        "name": "CoupledProduct",
+        "info": "",
+        "x": 200,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "ab864bb0c48d0f58",
+        "type": "comment",
+        "z": "1d0ba3cd830efefb",
+        "name": "TotalEarnings",
+        "info": "",
+        "x": 190,
+        "y": 700,
+        "wires": []
+    }
+]

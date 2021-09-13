@@ -1,0 +1,1903 @@
+[
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo"
+        ],
+        "timeStamp": "sun/8:04:43",
+        "total": "23.29"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/10:01:38",
+        "total": "15.10"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo",
+            "fish"
+        ],
+        "timeStamp": "sun/13:42:21",
+        "total": "18.90"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "sun/9:03:34",
+        "total": "33.78"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "mascara",
+            "soap",
+            "earpods"
+        ],
+        "timeStamp": "sun/9:35:29",
+        "total": "45.50"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "printer",
+            "water",
+            "cola",
+            "earpods"
+        ],
+        "timeStamp": "sun/13:31:57",
+        "total": "1170.70"
+    },
+    {
+        "transaction": [
+            "shampoo",
+            "balm",
+            "cream",
+            "webcam",
+            "soda"
+        ],
+        "timeStamp": "sun/8:52:43",
+        "total": "24.98"
+    },
+    {
+        "transaction": [
+            "fish",
+            "chips",
+            "bread",
+            "wine",
+            "water",
+            "toothpaste"
+        ],
+        "timeStamp": "sun/11:45:10",
+        "total": "22.49"
+    },
+    {
+        "transaction": [
+            "smartphone",
+            "earpods"
+        ],
+        "timeStamp": "sun/11:09:19",
+        "total": "818.00"
+    },
+    {
+        "transaction": [
+            "soap",
+            "deodorant",
+            "milk",
+            "milk",
+            "pasta"
+        ],
+        "timeStamp": "sun/11:58:46",
+        "total": "11.60"
+    },
+    {
+        "transaction": [
+            "chips",
+            "chips",
+            "ketchup",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/11:38:09",
+        "total": "9.10"
+    },
+    {
+        "transaction": [
+            "the",
+            "perfume",
+            "mascara",
+            "cream",
+            "fish"
+        ],
+        "timeStamp": "sun/13:01:38",
+        "total": "55.49"
+    },
+    {
+        "transaction": [
+            "biscuits",
+            "the",
+            "bread",
+            "radio",
+            "toothpaste",
+            "pasta"
+        ],
+        "timeStamp": "sun/8:49:04",
+        "total": "75.60"
+    },
+    {
+        "transaction": [
+            "tablet",
+            "balm",
+            "cola",
+            "water",
+            "water"
+        ],
+        "timeStamp": "sun/11:44:12",
+        "total": "307.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "soda",
+            "cola",
+            "beer",
+            "cola",
+            "pizza",
+            "pizza",
+            "pizza",
+            "hamburger"
+        ],
+        "timeStamp": "sun/10:55:10",
+        "total": "33.10"
+    },
+    {
+        "transaction": [
+            "webcam",
+            "printer",
+            "pasta",
+            "water"
+        ],
+        "timeStamp": "sun/7:28:39",
+        "total": "66.19"
+    },
+    {
+        "transaction": [
+            "wine",
+            "deodorant",
+            "biscuits",
+            "milk"
+        ],
+        "timeStamp": "sun/9:27:19",
+        "total": "14.69"
+    },
+    {
+        "transaction": [
+            "ketchup",
+            "chips",
+            "hamburger",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "sun/11:18:44",
+        "total": "12.80"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "sun/10:15:50",
+        "total": "1168.00"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "sun/10:16:47",
+        "total": "12.69"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "sun/10:44:17",
+        "total": "14.00"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "sun/11:34:41",
+        "total": "1168.00"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits",
+            "pasta"
+        ],
+        "timeStamp": "sun/12:26:10",
+        "total": "13.39"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "sun/9:48:58",
+        "total": "14.00"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "bread",
+            "the",
+            "balm",
+            "cream"
+        ],
+        "timeStamp": "mon/18:04:07",
+        "total": "12.89"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "mon/19:10:59",
+        "total": "23.99"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "mon/18:23:35",
+        "total": "15.10"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo"
+        ],
+        "timeStamp": "mon/17:45:14",
+        "total": "10.90"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "mon/18:50:20",
+        "total": "33.78"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "mascara",
+            "soap",
+            "earpods"
+        ],
+        "timeStamp": "mon/16:22:42",
+        "total": "45.50"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "printer",
+            "water",
+            "cola",
+            "earpods"
+        ],
+        "timeStamp": "mon/21:44:55",
+        "total": "1170.70"
+    },
+    {
+        "transaction": [
+            "shampoo",
+            "balm",
+            "cream",
+            "webcam",
+            "soda"
+        ],
+        "timeStamp": "mon/17:20:43",
+        "total": "24.98"
+    },
+    {
+        "transaction": [
+            "fish",
+            "chips",
+            "bread",
+            "wine",
+            "water",
+            "toothpaste"
+        ],
+        "timeStamp": "tue/17:02:03",
+        "total": "22.49"
+    },
+    {
+        "transaction": [
+            "smartphone",
+            "earpods"
+        ],
+        "timeStamp": "tue/20:09:22",
+        "total": "818.00"
+    },
+    {
+        "transaction": [
+            "soap",
+            "deodorant",
+            "milk",
+            "milk",
+            "pasta"
+        ],
+        "timeStamp": "tue/16:39:33",
+        "total": "11.60"
+    },
+    {
+        "transaction": [
+            "chips",
+            "chips",
+            "ketchup",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "tue/17:41:39",
+        "total": "9.10"
+    },
+    {
+        "transaction": [
+            "the",
+            "perfume",
+            "mascara",
+            "cream"
+        ],
+        "timeStamp": "tue/20:43:37",
+        "total": "47.49"
+    },
+    {
+        "transaction": [
+            "biscuits",
+            "the",
+            "bread",
+            "radio",
+            "toothpaste"
+        ],
+        "timeStamp": "tue/17:32:51",
+        "total": "74.90"
+    },
+    {
+        "transaction": [
+            "tablet",
+            "balm",
+            "cola",
+            "water",
+            "water"
+        ],
+        "timeStamp": "tue/19:08:15",
+        "total": "307.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "soda",
+            "cola",
+            "beer",
+            "cola",
+            "pizza",
+            "pizza",
+            "pizza",
+            "hamburger"
+        ],
+        "timeStamp": "wed/19:19:10",
+        "total": "33.10"
+    },
+    {
+        "transaction": [
+            "webcam",
+            "printer",
+            "pasta",
+            "water"
+        ],
+        "timeStamp": "wed/17:23:28",
+        "total": "66.19"
+    },
+    {
+        "transaction": [
+            "wine",
+            "deodorant",
+            "biscuits",
+            "milk"
+        ],
+        "timeStamp": "wed/16:58:56",
+        "total": "14.69"
+    },
+    {
+        "transaction": [
+            "ketchup",
+            "chips",
+            "hamburger",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "wed/18:52:49",
+        "total": "12.80"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "wed/18:22:28",
+        "total": "1168.00"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "wed/18:52:05",
+        "total": "12.69"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "wed/18:51:36",
+        "total": "14.00"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "wed/19:14:25",
+        "total": "1168.00"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "thu/20:24:34",
+        "total": "12.69"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "thu/17:14:32",
+        "total": "14.00"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo"
+        ],
+        "timeStamp": "sun/11:44:47",
+        "total": "21.25"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/8:57:21",
+        "total": "11.64"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo",
+            "fish"
+        ],
+        "timeStamp": "sun/11:36:47",
+        "total": "17.36"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "sun/10:50:25",
+        "total": "32.24"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "mascara",
+            "soap",
+            "earpods"
+        ],
+        "timeStamp": "sun/9:30:57",
+        "total": "38.96"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "printer",
+            "water",
+            "cola",
+            "earpods"
+        ],
+        "timeStamp": "sun/8:10:10",
+        "total": "1166.16"
+    },
+    {
+        "transaction": [
+            "shampoo",
+            "balm",
+            "cream",
+            "webcam",
+            "soda"
+        ],
+        "timeStamp": "sun/9:57:03",
+        "total": "24.58"
+    },
+    {
+        "transaction": [
+            "fish",
+            "chips",
+            "bread",
+            "wine",
+            "water",
+            "toothpaste"
+        ],
+        "timeStamp": "sun/8:41:24",
+        "total": "21.75"
+    },
+    {
+        "transaction": [
+            "smartphone",
+            "earpods"
+        ],
+        "timeStamp": "sun/12:26:19",
+        "total": "814.20"
+    },
+    {
+        "transaction": [
+            "soap",
+            "deodorant",
+            "milk",
+            "milk",
+            "pasta"
+        ],
+        "timeStamp": "sun/12:04:01",
+        "total": "11.49"
+    },
+    {
+        "transaction": [
+            "chips",
+            "chips",
+            "ketchup",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/10:51:21",
+        "total": "6.02"
+    },
+    {
+        "transaction": [
+            "the",
+            "perfume",
+            "mascara",
+            "cream",
+            "fish"
+        ],
+        "timeStamp": "sun/9:29:00",
+        "total": "55.49"
+    },
+    {
+        "transaction": [
+            "biscuits",
+            "the",
+            "bread",
+            "radio",
+            "toothpaste",
+            "pasta"
+        ],
+        "timeStamp": "sun/10:14:43",
+        "total": "74.85"
+    },
+    {
+        "transaction": [
+            "tablet",
+            "balm",
+            "cola",
+            "water",
+            "water"
+        ],
+        "timeStamp": "sun/9:46:04",
+        "total": "305.56"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "soda",
+            "cola",
+            "beer",
+            "cola",
+            "pizza",
+            "pizza",
+            "pizza",
+            "hamburger"
+        ],
+        "timeStamp": "sun/12:04:41",
+        "total": "31.18"
+    },
+    {
+        "transaction": [
+            "webcam",
+            "printer",
+            "pasta",
+            "water"
+        ],
+        "timeStamp": "sun/11:43:33",
+        "total": "65.58"
+    },
+    {
+        "transaction": [
+            "wine",
+            "deodorant",
+            "biscuits",
+            "milk"
+        ],
+        "timeStamp": "sun/11:14:58",
+        "total": "14.29"
+    },
+    {
+        "transaction": [
+            "ketchup",
+            "chips",
+            "hamburger",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "sun/14:07:47",
+        "total": "10.19"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "sun/12:45:16",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "sun/8:52:34",
+        "total": "11.65"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "sun/9:31:02",
+        "total": "11.15"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "sun/8:51:41",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits",
+            "pasta"
+        ],
+        "timeStamp": "sun/12:03:53",
+        "total": "12.24"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "sun/12:04:10",
+        "total": "11.15"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "bread",
+            "the",
+            "balm",
+            "cream"
+        ],
+        "timeStamp": "mon/17:21:54",
+        "total": "12.09"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "mon/16:59:38",
+        "total": "21.84"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "mon/17:58:38",
+        "total": "11.64"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo"
+        ],
+        "timeStamp": "mon/17:00:47",
+        "total": "9.36"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "mon/17:44:45",
+        "total": "32.24"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "mascara",
+            "soap",
+            "earpods"
+        ],
+        "timeStamp": "mon/18:33:19",
+        "total": "38.96"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "printer",
+            "water",
+            "cola",
+            "earpods"
+        ],
+        "timeStamp": "mon/17:39:27",
+        "total": "1166.16"
+    },
+    {
+        "transaction": [
+            "shampoo",
+            "balm",
+            "cream",
+            "webcam",
+            "soda"
+        ],
+        "timeStamp": "tue/16:09:29",
+        "total": "24.58"
+    },
+    {
+        "transaction": [
+            "fish",
+            "chips",
+            "bread",
+            "wine",
+            "water",
+            "toothpaste"
+        ],
+        "timeStamp": "tue/20:20:21",
+        "total": "21.75"
+    },
+    {
+        "transaction": [
+            "smartphone",
+            "earpods"
+        ],
+        "timeStamp": "tue/19:53:26",
+        "total": "814.20"
+    },
+    {
+        "transaction": [
+            "soap",
+            "deodorant",
+            "milk",
+            "milk",
+            "pasta"
+        ],
+        "timeStamp": "tue/19:42:18",
+        "total": "11.49"
+    },
+    {
+        "transaction": [
+            "chips",
+            "chips",
+            "ketchup",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "tue/19:14:36",
+        "total": "6.02"
+    },
+    {
+        "transaction": [
+            "the",
+            "perfume",
+            "mascara",
+            "cream"
+        ],
+        "timeStamp": "tue/16:46:24",
+        "total": "47.49"
+    },
+    {
+        "transaction": [
+            "biscuits",
+            "the",
+            "bread",
+            "radio",
+            "toothpaste"
+        ],
+        "timeStamp": "tue/17:13:52",
+        "total": "74.26"
+    },
+    {
+        "transaction": [
+            "tablet",
+            "balm",
+            "cola",
+            "water",
+            "water"
+        ],
+        "timeStamp": "tue/21:07:48",
+        "total": "305.56"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "soda",
+            "cola",
+            "beer",
+            "cola",
+            "pizza",
+            "pizza",
+            "pizza",
+            "hamburger"
+        ],
+        "timeStamp": "wed/19:33:54",
+        "total": "31.18"
+    },
+    {
+        "transaction": [
+            "webcam",
+            "printer",
+            "pasta",
+            "water"
+        ],
+        "timeStamp": "wed/16:44:01",
+        "total": "65.58"
+    },
+    {
+        "transaction": [
+            "wine",
+            "deodorant",
+            "biscuits",
+            "milk"
+        ],
+        "timeStamp": "wed/20:15:39",
+        "total": "14.29"
+    },
+    {
+        "transaction": [
+            "ketchup",
+            "chips",
+            "hamburger",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "wed/18:47:42",
+        "total": "10.19"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "wed/19:00:40",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "wed/17:40:03",
+        "total": "11.65"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "wed/16:22:45",
+        "total": "11.15"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "wed/17:50:22",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "thu/18:56:28",
+        "total": "11.65"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "thu/15:47:41",
+        "total": "11.15"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo"
+        ],
+        "timeStamp": "sun/8:52:10",
+        "total": "21.25"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/14:14:17",
+        "total": "11.64"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo",
+            "fish"
+        ],
+        "timeStamp": "sun/11:08:50",
+        "total": "17.36"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "sun/12:02:41",
+        "total": "32.24"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo"
+        ],
+        "timeStamp": "sun/10:45:56",
+        "total": "21.25"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/14:10:11",
+        "total": "11.64"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo",
+            "fish"
+        ],
+        "timeStamp": "sun/12:00:50",
+        "total": "17.36"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "sun/8:40:43",
+        "total": "32.24"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "mascara",
+            "soap",
+            "earpods"
+        ],
+        "timeStamp": "sun/10:46:58",
+        "total": "38.96"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "printer",
+            "water",
+            "cola",
+            "earpods"
+        ],
+        "timeStamp": "sun/15:41:30",
+        "total": "1166.16"
+    },
+    {
+        "transaction": [
+            "shampoo",
+            "balm",
+            "cream",
+            "webcam",
+            "soda"
+        ],
+        "timeStamp": "sun/11:43:34",
+        "total": "24.58"
+    },
+    {
+        "transaction": [
+            "fish",
+            "chips",
+            "bread",
+            "wine",
+            "water",
+            "toothpaste"
+        ],
+        "timeStamp": "sun/11:26:46",
+        "total": "21.75"
+    },
+    {
+        "transaction": [
+            "smartphone",
+            "earpods"
+        ],
+        "timeStamp": "sun/9:36:57",
+        "total": "814.20"
+    },
+    {
+        "transaction": [
+            "soap",
+            "deodorant",
+            "milk",
+            "milk",
+            "pasta"
+        ],
+        "timeStamp": "sun/7:20:23",
+        "total": "11.49"
+    },
+    {
+        "transaction": [
+            "chips",
+            "chips",
+            "ketchup",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/11:57:25",
+        "total": "6.02"
+    },
+    {
+        "transaction": [
+            "the",
+            "perfume",
+            "mascara",
+            "cream",
+            "fish"
+        ],
+        "timeStamp": "sun/8:59:07",
+        "total": "55.49"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo"
+        ],
+        "timeStamp": "sun/11:30:42",
+        "total": "22.31"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/11:02:35",
+        "total": "11.50"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo",
+            "fish"
+        ],
+        "timeStamp": "sun/12:06:37",
+        "total": "17.48"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "sun/10:18:48",
+        "total": "33.18"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "mascara",
+            "soap",
+            "earpods"
+        ],
+        "timeStamp": "sun/12:17:36",
+        "total": "39.90"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "printer",
+            "water",
+            "cola",
+            "earpods"
+        ],
+        "timeStamp": "sun/11:13:48",
+        "total": "1166.52"
+    },
+    {
+        "transaction": [
+            "shampoo",
+            "balm",
+            "cream",
+            "webcam",
+            "soda"
+        ],
+        "timeStamp": "sun/10:50:54",
+        "total": "24.58"
+    },
+    {
+        "transaction": [
+            "fish",
+            "chips",
+            "bread",
+            "wine",
+            "water",
+            "toothpaste"
+        ],
+        "timeStamp": "sun/11:20:31",
+        "total": "21.87"
+    },
+    {
+        "transaction": [
+            "smartphone",
+            "earpods"
+        ],
+        "timeStamp": "sun/10:53:24",
+        "total": "814.20"
+    },
+    {
+        "transaction": [
+            "soap",
+            "deodorant",
+            "milk",
+            "milk",
+            "pasta"
+        ],
+        "timeStamp": "sun/9:18:29",
+        "total": "11.46"
+    },
+    {
+        "transaction": [
+            "chips",
+            "chips",
+            "ketchup",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/11:39:11",
+        "total": "7.90"
+    },
+    {
+        "transaction": [
+            "the",
+            "perfume",
+            "mascara",
+            "cream",
+            "fish"
+        ],
+        "timeStamp": "sun/9:28:38",
+        "total": "55.49"
+    },
+    {
+        "transaction": [
+            "biscuits",
+            "the",
+            "bread",
+            "radio",
+            "toothpaste",
+            "pasta"
+        ],
+        "timeStamp": "sun/10:19:11",
+        "total": "74.82"
+    },
+    {
+        "transaction": [
+            "tablet",
+            "balm",
+            "cola",
+            "water",
+            "water"
+        ],
+        "timeStamp": "sun/14:59:31",
+        "total": "306.04"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "soda",
+            "cola",
+            "beer",
+            "cola",
+            "pizza",
+            "pizza",
+            "pizza",
+            "hamburger"
+        ],
+        "timeStamp": "sun/8:00:20",
+        "total": "31.72"
+    },
+    {
+        "transaction": [
+            "webcam",
+            "printer",
+            "pasta",
+            "water"
+        ],
+        "timeStamp": "sun/8:51:03",
+        "total": "65.67"
+    },
+    {
+        "transaction": [
+            "wine",
+            "deodorant",
+            "biscuits",
+            "milk"
+        ],
+        "timeStamp": "sun/12:45:53",
+        "total": "14.29"
+    },
+    {
+        "transaction": [
+            "ketchup",
+            "chips",
+            "hamburger",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "sun/11:20:25",
+        "total": "11.46"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "sun/12:11:23",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "sun/13:06:20",
+        "total": "11.65"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "sun/12:10:16",
+        "total": "12.66"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "sun/10:43:20",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits",
+            "pasta"
+        ],
+        "timeStamp": "sun/10:52:47",
+        "total": "12.21"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "mon/10:21:24",
+        "total": "12.66"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "bread",
+            "the",
+            "balm",
+            "cream"
+        ],
+        "timeStamp": "mon/16:40:32",
+        "total": "12.09"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "mon/17:44:57",
+        "total": "22.87"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "mon/18:43:04",
+        "total": "11.50"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo"
+        ],
+        "timeStamp": "mon/19:05:09",
+        "total": "9.48"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "pizza",
+            "wine"
+        ],
+        "timeStamp": "mon/17:22:55",
+        "total": "33.18"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "mascara",
+            "soap",
+            "earpods"
+        ],
+        "timeStamp": "mon/20:18:40",
+        "total": "39.90"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "printer",
+            "water",
+            "cola",
+            "earpods"
+        ],
+        "timeStamp": "mon/19:42:44",
+        "total": "1166.52"
+    },
+    {
+        "transaction": [
+            "shampoo",
+            "balm",
+            "cream",
+            "webcam",
+            "soda"
+        ],
+        "timeStamp": "tue/16:30:57",
+        "total": "24.58"
+    },
+    {
+        "transaction": [
+            "fish",
+            "chips",
+            "bread",
+            "wine",
+            "water",
+            "toothpaste"
+        ],
+        "timeStamp": "tue/18:12:33",
+        "total": "21.87"
+    },
+    {
+        "transaction": [
+            "smartphone",
+            "earpods"
+        ],
+        "timeStamp": "tue/19:48:27",
+        "total": "814.20"
+    },
+    {
+        "transaction": [
+            "soap",
+            "deodorant",
+            "milk",
+            "milk",
+            "pasta"
+        ],
+        "timeStamp": "tue/19:28:52",
+        "total": "11.46"
+    },
+    {
+        "transaction": [
+            "chips",
+            "chips",
+            "ketchup",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "tue/18:32:02",
+        "total": "7.90"
+    },
+    {
+        "transaction": [
+            "the",
+            "perfume",
+            "mascara",
+            "cream"
+        ],
+        "timeStamp": "tue/18:25:48",
+        "total": "47.49"
+    },
+    {
+        "transaction": [
+            "biscuits",
+            "the",
+            "bread",
+            "radio",
+            "toothpaste"
+        ],
+        "timeStamp": "tue/18:03:36",
+        "total": "74.26"
+    },
+    {
+        "transaction": [
+            "tablet",
+            "balm",
+            "cola",
+            "water",
+            "water"
+        ],
+        "timeStamp": "wed/18:37:30",
+        "total": "306.04"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "soda",
+            "cola",
+            "beer",
+            "cola",
+            "pizza",
+            "pizza",
+            "pizza",
+            "hamburger"
+        ],
+        "timeStamp": "wed/18:55:52",
+        "total": "31.72"
+    },
+    {
+        "transaction": [
+            "webcam",
+            "printer",
+            "pasta",
+            "water"
+        ],
+        "timeStamp": "wed/17:51:34",
+        "total": "65.67"
+    },
+    {
+        "transaction": [
+            "wine",
+            "deodorant",
+            "biscuits",
+            "milk"
+        ],
+        "timeStamp": "wed/17:43:03",
+        "total": "14.29"
+    },
+    {
+        "transaction": [
+            "ketchup",
+            "chips",
+            "hamburger",
+            "shampoo",
+            "pasta"
+        ],
+        "timeStamp": "wed/17:57:57",
+        "total": "11.46"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "wed/15:04:24",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "wed/18:19:53",
+        "total": "11.65"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "wed/21:01:31",
+        "total": "12.66"
+    },
+    {
+        "transaction": [
+            "notebook",
+            "earpods",
+            "printer",
+            "soda"
+        ],
+        "timeStamp": "thu/18:00:00",
+        "total": "1164.20"
+    },
+    {
+        "transaction": [
+            "lemonade",
+            "cream",
+            "balm",
+            "toothpaste",
+            "biscuits"
+        ],
+        "timeStamp": "thu/16:51:13",
+        "total": "11.65"
+    },
+    {
+        "transaction": [
+            "chips",
+            "hamburger",
+            "cola",
+            "pasta",
+            "deodorant"
+        ],
+        "timeStamp": "thu/17:45:45",
+        "total": "12.66"
+    },
+    {
+        "transaction": [
+            "chips",
+            "beer",
+            "pizza",
+            "wine",
+            "water",
+            "shampoo"
+        ],
+        "timeStamp": "sun/13:16:34",
+        "total": "22.31"
+    },
+    {
+        "transaction": [
+            "bread",
+            "hamburger",
+            "ketchup",
+            "beer",
+            "chips",
+            "beer",
+            "beer",
+            "beer"
+        ],
+        "timeStamp": "sun/10:55:09",
+        "total": "11.50"
+    },
+    {
+        "transaction": [
+            "milk",
+            "biscuits",
+            "toothpaste",
+            "water",
+            "balm",
+            "shampoo",
+            "fish"
+        ],
+        "timeStamp": "sun/9:43:02",
+        "total": "17.48"
+    }
+]
